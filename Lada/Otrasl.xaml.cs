@@ -16,29 +16,13 @@ using System.Windows.Shapes;
 namespace Lada
 {
     /// <summary>
-    /// Логика взаимодействия для MainWindow.xaml
+    /// Логика взаимодействия для Otrasl.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class Otrasl : Page
     {
-        public MainWindow()
+        public Otrasl()
         {
             InitializeComponent();
-        }
-
-        private void Btn_Clikc(object sender, RoutedEventArgs e)
-        {
-            MainFrame.Navigate(new Otrasl());
-            Manager.MainFrame = MainFrame;
-        }
-
-        private void Btn_Clikc2(object sender, RoutedEventArgs e)
-        {
-
-        }
-
-        private void Btn_Clikc3(object sender, RoutedEventArgs e)
-        {
-
         }
     }
 }

@@ -13,3 +13,5 @@ C:\Users\Администратор\source\repos\Lada\Lada\obj\Debug\Lada.csproj
 C:\Users\Администратор\source\repos\Lada\Lada\obj\Debug\Lada.csproj.CoreCompileInputs.cache
 C:\Users\Администратор\source\repos\Lada\Lada\obj\Debug\Lada.exe
 C:\Users\Администратор\source\repos\Lada\Lada\obj\Debug\Lada.pdb
+C:\Users\Администратор\source\repos\Lada\Lada\obj\Debug\Otrasl.g.cs
+C:\Users\Администратор\source\repos\Lada\Lada\obj\Debug\Otrasl.baml

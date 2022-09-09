@@ -11,24 +11,32 @@
             <ColumnDefinition Width="150"></ColumnDefinition>
             <ColumnDefinition Width="*"></ColumnDefinition>
         </Grid.ColumnDefinitions>
-        <Grid Grid.Column="1">
-            <Grid.RowDefinitions >
-                <RowDefinition Height="30">
-                    
-                </RowDefinition>
-                <RowDefinition Height="*"></RowDefinition>
+        <Grid Grid.Column ="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="100"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
             </Grid.RowDefinitions>
-            <TextBlock> Спортивный инвентарь</TextBlock>
-            <Label Grid.Row="1" Foreground="Black">Спортивный инвентарь</Label>
-        </Grid>
-        <Grid Grid.Column="0" Background="Black"></Grid>
-        <Grid Grid.Column="1" Background="White"></Grid>
-        <Image x:Name="Image1_png"  Source="Image1.png"  Grid.Column="0" VerticalAlignment="Top"/>
-        <TextBlock> Olman  </TextBlock>
-        <Label Grid.Column="1" Foreground="Black"> Olman</Label>
-        <Label Grid.Column="0" Foreground="White">Olman</Label>
-        <Button Click="Btn_Clikc" Height="25" Background="White">Это кнопка,работает </Button>
+            <Label FontSize="40" Margin="10" FontWeight="SemiBold" Content="Olman"></Label>
+            <Grid Background="Black" Height="15" VerticalAlignment="Bottom" Margin="10"></Grid>
+                <Frame Name="MainFrame" Grid.Row="1">
+                </Frame>
+            </Grid>
+
+
+
+
+        <Label Grid.Row="1" Foreground="Black">Olman</Label>
+            <Grid Grid.Column="0" Background="Black"></Grid>
         
+        <Image x:Name="Image1_png"  Source="Image1.png"  Grid.Column="0" VerticalAlignment="Top"/>
+        <StackPanel VerticalAlignment="Center"> 
+            <Button Click="Btn_Clikc" Height="25" Background="White">Информация</Button>
+            <Button Click="Btn_Clikc2" Height="25" Background="White">Спортивный инвентарь</Button>
+            <Button Click="Btn_Clikc3" Height="25" Background="White">Контактная информация</Button>
+        </StackPanel>
+        
+      
+   
         
 
     </Grid>
