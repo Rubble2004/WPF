@@ -24,5 +24,10 @@ namespace Lada
         {
             InitializeComponent();
         }
+
+        private void Btn_Clikc(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
