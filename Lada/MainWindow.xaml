@@ -31,8 +31,8 @@
         <Image x:Name="Image1_png"  Source="Image1.png"  Grid.Column="0" VerticalAlignment="Top"/>
         <StackPanel VerticalAlignment="Center"> 
             <Button Click="Btn_Clikc" Height="25" Background="White">Информация</Button>
-            <Button Click="Btn_Clikc2" Height="25" Background="White">Спортивный инвентарь</Button>
-            <Button Click="Btn_Clikc3" Height="25" Background="White">Контактная информация</Button>
+            <Button Click="Btn_Clikc2" Height="25" Background="White">Продукция</Button>
+            
         </StackPanel>
         
       

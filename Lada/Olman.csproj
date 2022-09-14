@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{5C47C8D7-74F2-41B7-AA12-B70E8ED79929}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Lada</RootNamespace>
-    <AssemblyName>Lada</AssemblyName>
+    <RootNamespace>Olman</RootNamespace>
+    <AssemblyName>Olman</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -71,11 +71,18 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="otrasl2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Manager.cs" />
     <Compile Include="Otrasl.xaml.cs">
       <DependentUpon>Otrasl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="otrasl2.xaml.cs">
+      <DependentUpon>otrasl2.xaml</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>

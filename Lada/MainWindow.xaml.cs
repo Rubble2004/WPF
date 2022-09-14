@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Olman;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -33,7 +34,8 @@ namespace Lada
 
         private void Btn_Clikc2(object sender, RoutedEventArgs e)
         {
-
+            MainFrame.Navigate(new otrasl2());
+            Manager.MainFrame = MainFrame;
         }
 
         private void Btn_Clikc3(object sender, RoutedEventArgs e)
