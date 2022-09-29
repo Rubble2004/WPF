@@ -17,3 +17,23 @@ C:\Users\Администратор\source\repos\Lada\Lada\obj\Debug\Olman.exe
 C:\Users\Администратор\source\repos\Lada\Lada\obj\Debug\Olman.pdb
 C:\Users\Администратор\source\repos\Lada\Lada\obj\Debug\otrasl2.g.cs
 C:\Users\Администратор\source\repos\Lada\Lada\obj\Debug\otrasl2.baml
+C:\Users\vipev\OneDrive\Рабочий стол\Lada\Olman-2.0\Lada\bin\Debug\Olman.exe.config
+C:\Users\vipev\OneDrive\Рабочий стол\Lada\Olman-2.0\Lada\bin\Debug\Olman.exe
+C:\Users\vipev\OneDrive\Рабочий стол\Lada\Olman-2.0\Lada\bin\Debug\Olman.pdb
+C:\Users\vipev\OneDrive\Рабочий стол\Lada\Olman-2.0\Lada\obj\Debug\Olman.csproj.AssemblyReference.cache
+C:\Users\vipev\OneDrive\Рабочий стол\Lada\Olman-2.0\Lada\obj\Debug\MainWindow.g.cs
+C:\Users\vipev\OneDrive\Рабочий стол\Lada\Olman-2.0\Lada\obj\Debug\Otrasl.g.cs
+C:\Users\vipev\OneDrive\Рабочий стол\Lada\Olman-2.0\Lada\obj\Debug\otrasl2.g.cs
+C:\Users\vipev\OneDrive\Рабочий стол\Lada\Olman-2.0\Lada\obj\Debug\App.g.cs
+C:\Users\vipev\OneDrive\Рабочий стол\Lada\Olman-2.0\Lada\obj\Debug\Olman_MarkupCompile.cache
+C:\Users\vipev\OneDrive\Рабочий стол\Lada\Olman-2.0\Lada\obj\Debug\Olman_MarkupCompile.lref
+C:\Users\vipev\OneDrive\Рабочий стол\Lada\Olman-2.0\Lada\obj\Debug\MainWindow.baml
+C:\Users\vipev\OneDrive\Рабочий стол\Lada\Olman-2.0\Lada\obj\Debug\Otrasl.baml
+C:\Users\vipev\OneDrive\Рабочий стол\Lada\Olman-2.0\Lada\obj\Debug\otrasl2.baml
+C:\Users\vipev\OneDrive\Рабочий стол\Lada\Olman-2.0\Lada\obj\Debug\Olman.g.resources
+C:\Users\vipev\OneDrive\Рабочий стол\Lada\Olman-2.0\Lada\obj\Debug\Olman.Properties.Resources.resources
+C:\Users\vipev\OneDrive\Рабочий стол\Lada\Olman-2.0\Lada\obj\Debug\Olman.csproj.GenerateResource.cache
+C:\Users\vipev\OneDrive\Рабочий стол\Lada\Olman-2.0\Lada\obj\Debug\Olman.csproj.CoreCompileInputs.cache
+C:\Users\vipev\OneDrive\Рабочий стол\Lada\Olman-2.0\Lada\obj\Debug\Olman.exe
+C:\Users\vipev\OneDrive\Рабочий стол\Lada\Olman-2.0\Lada\obj\Debug\Olman.pdb
+C:\Users\vipev\OneDrive\Рабочий стол\Lada\Olman-2.0\Lada\obj\Debug\App.baml
