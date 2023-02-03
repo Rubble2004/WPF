@@ -38,9 +38,10 @@ namespace Lada
             Manager.MainFrame = MainFrame;
         }
 
-        private void Btn_Clikc3(object sender, RoutedEventArgs e)
+        private void Btn_Clikc4(object sender, RoutedEventArgs e)
         {
-
+            MainFrame.Navigate(new material());
+            Manager.MainFrame = MainFrame;
         }
     }
 }
